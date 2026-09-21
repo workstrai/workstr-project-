@@ -34,6 +34,8 @@ Geen echte vacaturedatabase, video-hosting, accountregistratie, cv-upload, AI-ma
 
 ## Productrichting uit de presentatie
 
+Het [productconcept en ontwikkelingsplan](docs/PRODUCTCONCEPT-EN-ONTWIKKELPLAN.md) werkt de UVP, het verdienmodel, MVP, portfolio-uploadflow, kwartaalreminders en een toegangsgecontroleerde multi-database AI-searcharchitectuur uit. Dit is een ontwikkelvoorstel; uploads, notificaties en AI zijn nog niet gebouwd.
+
 CV naar visueel profiel, transparante AI-matchsuggesties, wederzijdse interesse, chat met AI-ijsbreker, abonnementsmodel per actieve vacature en enterprise-maatwerk. AI-uitkomsten en besparingen worden niet als bewezen resultaten gepresenteerd.
 
 ## Bestanden

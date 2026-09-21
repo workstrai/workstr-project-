@@ -36,14 +36,14 @@ const features = [
   {
     label: "Jouw profiel",
     title: "Je verhaal begint bij jou.",
-    text: "Het plan: je cv vormt de basis. AI helpt je ervaring en skills te vertalen naar een persoonlijk, visueel profiel.",
+    text: "Jouw CV en portfolio op één plek: ervaring, skills en foto's van je werk. Het plan: iedere drie maanden een reminder om je profiel actueel te houden.",
     status: "Op de productroadmap",
     icon: FileArrowUp,
   },
   {
     label: "Slimme matching",
     title: "Ontdek waarom het past.",
-    text: "We ontwikkelen matching op basis van relevante skills en voorkeuren, met een begrijpelijke uitleg. Geen willekeurige matchpercentages.",
+    text: "Bij een vacature zoeken in Workstr-profielen en toegestane partnerdatabases. Met relevante skills, beschikbaarheid en een uitleg per bron. De AI-zoekfunctie staat op de roadmap.",
     status: "Op de productroadmap",
     icon: Sparkle,
   },
